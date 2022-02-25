@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the right honourable the Lord mayor and the court of alderman at Gvild-Hill-Chappel upon Good-Friday the 29th of March, 1689 by George Royse ...</title>
+            <author>Royse, George, 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57805</idno>
+            <idno type="STC">Wing R2162</idno>
+            <idno type="STC">ESTC R13852</idno>
+            <idno type="EEBO-CITATION">13587403</idno>
+            <idno type="OCLC">ocm 13587403</idno>
+            <idno type="VID">100592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100592)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 475:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the right honourable the Lord mayor and the court of alderman at Gvild-Hill-Chappel upon Good-Friday the 29th of March, 1689 by George Royse ...</title>
+                  <author>Royse, George, 1708.</author>
+               </titleStmt>
+               <extent>[6], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, VI, 20 --  Sermons.</term>
+               <term>Redemption --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:100592:1"/>
+            <head>Pilkington, Mayor.</head>
+            <head type="sub">Martis <hi>16<hi rend="sup">o</hi>
+               </hi> Die <hi>April</hi> Anno<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> R. Regis &amp; Reginae <hi>Gulielm.</hi> &amp; <hi>Mariae</hi> Angl. <hi>&amp;c.</hi>
+            </head>
+            <p>THis Court doth deſire Mr. <hi>Royſe</hi> to Print his Sermon, Preach'd at <hi>Guild-Hall</hi>-Chappel on <hi>Good-Friday</hi> laſt, before the Lord Mayor and Aldermen of the City.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <dateline>
+                  <date>April 10. 1689.</date>
+               </dateline>
+               <signed>Z. Iſham. R. P. D. <hi>Henrico Epiſ.</hi> Lond. <hi>à Sacris.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:100592:1"/>
+            <p>A SERMON Preached before the RIGHT HONOURABLE THE Lord Mayor, AND THE <hi>Court of Aldermen.</hi>
+            </p>
+            <p>AT <hi>G<g ref="char:V">Ʋ</g>ILD-HALL-CHAPPEL</hi> Upon <hi>Good-Friday</hi> the 29th of <hi>March,</hi> 1689.</p>
+            <p>By <hi>GEORGE ROYSE,</hi> Fellow of <hi>Oriel</hi> Colledge in <hi>Oxford:</hi> And Chaplain to the Right Honourable the Earl of <hi>BERKLEY.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Crouch</hi> at the Corner of <hi>Popes-Head-Alley,</hi> over againſt the <hi>Royal Exchange.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100592:2"/>
+            <pb facs="tcp:100592:2"/>
+            <head>TO THE RIGHT HONOURABLE Sir <hi>Tho. Pilkington,</hi> Lord Mayor OF LONDON, And to the Court of ALDERMEN.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>'TIS as uſual on one ſide to give Rea<g ref="char:EOLhyphen"/>ſons for Publiſhing, as 'tis on the other to demand them. If your Honours Commands won't paſs for a Reaſon to ſatisfie others, yet this is my Com<g ref="char:EOLhyphen"/>fort, that in compliance with my Duty I can ſa<g ref="char:EOLhyphen"/>tisfie my ſelf. The ſubject of the Diſcourſe is the great Miſtery of our Redemption purchaſed by the Blond of Chriſt, a Doctrine that has ſuf<g ref="char:EOLhyphen"/>fered juſt like its Author, <hi>By enduring the
+<pb facs="tcp:100592:3"/>Contradiction of Sinners.</hi> The Socinian has leſſen'd all the Glory of the <g ref="char:V">Ʋ</g>ndertaking, and the Libertine has advanced it ſo far, as to de<g ref="char:EOLhyphen"/>ſtroy the great ends of it: The one brings down the Price of Chriſt's Bloud, and the other im<g ref="char:EOLhyphen"/>piouſly tramples upon it. And ſince the Opi<g ref="char:EOLhyphen"/>nions of the former have been unjuſtly charg'd upon thoſe of my own Profeſſion, I am glad, I have this occaſion, if not of vindicating the Truths of our Church, yet of clearing one of its Members from the Imputation of thoſe Errors. To advance a Truth is a most admirable Ser<g ref="char:EOLhyphen"/>vice, and the next ſtep to it is to attempt it: The one beſpeaks greater Abilities, but the other may carry with it an equal Zeal. I am ſure I may put in for my ſhare in the latter, and as to the other, however it may fall under Cenſure, yet I have this ſatisfaction in what I have done, that as it is backt, and recommended by an Ho<g ref="char:EOLhyphen"/>nourable Authority, ſo it has preſented me with a fair Opportunity of making a publick Acknow<g ref="char:EOLhyphen"/>ledgment how much</p>
+            <closer>
+               <signed>I am, Right Honourable, Tour most Humble and Obedient Servant, <hi>George Royſe.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:100592:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:100592:4"/>
+            <pb n="1" facs="tcp:100592:4"/>
+            <head>A SERMON Preached before the Lord Mayor.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. VI. 20.</hi>
+                  </bibl>
+                  <p>For ye are bought with a price, therefore glorifie God with your body and ſpirit, which are God's.</p>
+               </q>
+            </epigraph>
+            <p>SHould I trace all the Steps and Mazes of God's Providence, ſhould I recount all the marvellous Acts, and the won<g ref="char:EOLhyphen"/>ders that he has done for the Chil<g ref="char:EOLhyphen"/>dren of Men; yet all theſe together can ne<g ref="char:EOLhyphen"/>ver ſo diſplay the Riches of his Mercy, or the Glory of his Kingdom, as that happy Re<g ref="char:EOLhyphen"/>demption which we this day commemorate.</p>
+            <pb n="2" facs="tcp:100592:5"/>
+            <p>Never was ſuch an everlaſting Memorial of his abundant Kindneſs, never ſuch wretched Monuments of Pity, that either more need<g ref="char:EOLhyphen"/>ed, or leſs deſerv'd it.</p>
+            <p>When Nature groan'd under the weight of its Crimes, when all its Powers lay fetter'd under the ſtrongeſt Oppreſſion and Tyranny, when they that <hi>hated us became Lords</hi> over us: Then did God ariſe and laid help upon one that was Mighty, Heaven conſpired, and thoſe glorious Perſons of the Bleſſed Trinity took ſweet Counſil together, they enter'd into Covenant, form'd the Deſign, and laid the Scene of an unheard Deliverance.</p>
+            <p>When Juſtice and Mercy had ſtrove toge<g ref="char:EOLhyphen"/>ther, when Paternal Affection had been ſtrug<g ref="char:EOLhyphen"/>ling with a ſenſe of Honour, and Authority, then by an Almighty Counſil, were all thoſe Attributes admirably reconciled, as in the Mutual Illuſtration of each other, ſo in the glorious Redemption of the poor Captive man.</p>
+            <p>So deeply was Providence engaged for the Salvation of Mankind, that the Son himſelf muſt come down from Heaven, be humbled as low as thoſe Slaves, he came to purchaſe, and be at the Expence of his own Bloud, as the Price of their Redemption. <hi>Ye are bought with a price,</hi> &amp;c.</p>
+            <pb n="3" facs="tcp:100592:5"/>
+            <p>In which words I ſhall inſiſt on theſe four things, all which are either formally expreſs'd or imply'd.</p>
+            <list>
+               <item>I. That we may underſtand how we were bought, I ſhall ſhew, how miſerably we were ſold under Sin, and plagued with Guilt be<g ref="char:EOLhyphen"/>fore this Redemption was wrought for us.</item>
+               <item>II. The Price that was laid down to pro<g ref="char:EOLhyphen"/>cure our Releaſe, and Diſcharge; and that was the Bloud of Chriſt.</item>
+               <item>III. The Effects and Benefits of that Bloud in reference to the Dominion, and Guilt of Sin, and in what Condition it has inſtated us.</item>
+               <item>IV. The Obligation that does ariſe from this Conſideration, that we are thus bought with a Price, and that is, we ſhould glorifie God with our Body and Spirit, which are God's.</item>
+            </list>
+            <p>As to the firſt, it conſiſts in theſe two things.</p>
+            <list>
+               <item>1. As we were Sinners we were the great<g ref="char:EOLhyphen"/>eſt Slaves and Captives to our Luſts, until we were releaſed by the Bloud of Chriſt.</item>
+               <item>2. We lay under ſuch Guilt, and Obliga<g ref="char:EOLhyphen"/>tions to Puniſhment, as could not have
+<pb n="4" facs="tcp:100592:6"/>been cancell'd without the Bloud of a Redeemer.</item>
+            </list>
+            <p n="1">1. We were the greateſt Slaves, <hi>&amp;c.</hi>
+            </p>
+            <p>Though every Sinner does make the great<g ref="char:EOLhyphen"/>eſt pretenſions to Liberty, yet there is no Captive whatever, that does exerciſe leſs, whilſt he impiouſly glories that he has ſhook off all the Fetters of Laws, he does miſera<g ref="char:EOLhyphen"/>bly ſink under thoſe that are much heavier, his Crimes; for as every Crime is an abuſe of our natural Liberty, ſo the growth and advance of it does continually leſſen and impair it.</p>
+            <p>Our Slavery is advanced in proportion to its Dominion, and the more Arbitrary that is, the more the Rights of a reaſonable Creature are invaded.</p>
+            <p>So many Vices as we harbour, ſo many Lords rule over us, and as they paſs from <hi>ſtrength to ſtrength, ſo we are led on into Cap<g ref="char:EOLhyphen"/>tivity into the Enemies hands.</hi>
+            </p>
+            <p>There is no ſuch Tyrant in the World, as an old-grown Luſt, no ſuch deſpicable Slaves, as thoſe that ſerve it. He that works at the Galleys is much more free, than he that works Drudgery to the Fleſh, and to be ſold under Sin is far more intolerable, than to be ſold under the <hi>Roman</hi> Spear. All other Slavery
+<pb n="5" facs="tcp:100592:6"/>is extended only to the Body, but this does bear down, and conquer the whole man.</p>
+            <p>The moſt Arbitrary Power on Earth can command only our Exterior Service, it can neither beſtow nor invade the freedom of our Wills, but the Tyranny of Luſt does force a ſervile reſignation of both. Whatever Fetters are laid upon us by Humane Powers, yet there is this Comſort ſtill, that our inward Thoughts and Deſires are free; but when we are the Servants of Sin. our Minds are as much enſlav'd in a Spiritual Senſe, as our Bodies can be in a Natural. And this which I men<g ref="char:EOLhyphen"/>tion in general may he exempliſied in particu<g ref="char:EOLhyphen"/>lar Inſtances. Do but ſet before your Eyes the Example of a covetous Slave, he has no more Liberty left him, than he that is ſtak'd to the Ground. For the Exerciſe of all true Liberty does depend upon the large Capacity and Freedom of our Thoughts; and the more narrow and confined our Conceptions are, the more ſtrained and determin'd is the Li<g ref="char:EOLhyphen"/>berty of our Choice; and therefore ſince ſuch a man's Thoughts can riſe no higher than a worldly Intereſt, he muſt be cloſely ty'd down by thoſe Weights and Clogs, and the deſires of his Will as much fetter'd, as the motions of his Mind.</p>
+            <pb n="6" facs="tcp:100592:7"/>
+            <p>His Soul does in a true ſenſe cleave unto the Ground, his Conceptions are faſtened to his Bags, and tho' he be tyed with the Chains of Gold, he carries far greater marks of Sla<g ref="char:EOLhyphen"/>very, than he that drags thoſe of Iron. And 'tis much the ſame with the luſtful and in<g ref="char:EOLhyphen"/>continent; as he has no power over the in<g ref="char:EOLhyphen"/>clinations of his Body, ſo he has nothing of a Rational and a Manly Liberty. Being damn'd wholly to the Pleaſures of Senſe, he is as much determin'd as the Beaſt by his Fancy; he ſteers juſt like the Bruit, not by a free Conduct, but by a blind Swinge; and in<g ref="char:EOLhyphen"/>ſtead of managing the Biaſs, he does fatally cloſe with it. And what a ſlaviſh Captivity was this, when we thus lay at the mercy of every Luſt, and ſervily crouch'd to a Devil from abroad, and another from within? And yet this was the common Condition of Hu<g ref="char:EOLhyphen"/>mane Nature, when the Lord came to de<g ref="char:EOLhyphen"/>liver thoſe Spirits that were thus in Priſon, <hi>and to turn our Captivity as the Rivers in the South.</hi> And though the Heathen Morals may ſeem a Contradiction to this, yet I am ſure their Lives were much more a Contradiction to their Principles. Whilſt they gloried in their Natural Liberty, they were as much Slaves to their Inclinations, as if they had
+<pb n="7" facs="tcp:100592:7"/>been the Miniſters of Fate, not Maſters of their own Actions. Their Reaſon did but ſerve to upbraid not to govern their Practice; and when their Doctrine was moſt refin'd, they themſelves were <hi>ſettled upon the Lees:</hi> and tho' ſome of them by the excellency of their Temper, and the impreſſions of Grace, were more free and diſ-engaged from the Power of Vice, yet as thoſe Inſtances were but rare and extraordinary, ſo their Vertues generally were as rotten and unſound as the Springs from which they iſſued. And what has been faid of the Heathens, was no leſs true of the <hi>Jews,</hi> for the Apoſtle to the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> makes but very little difference betwixt <hi>Jew</hi> and <hi>Gentile,</hi> tho' they had the benefit of a new Revelation, yet this Spirit of Bon<g ref="char:EOLhyphen"/>dage ſtill dwelt upon them, and the Yoke of their Sins was far heavier than that of their Ceremonies. Wherefore if by the account of our Slavery we may form a judgment of the greatneſs of our Deliverance, what a mighty Redemption was this that was wrought in <hi>Iſrael?</hi> What a glorious Releaſe was pur<g ref="char:EOLhyphen"/>chaſed by the Lord that bought us, eſpeci<g ref="char:EOLhyphen"/>ally if we conſider in the Second place, that this Redemption was not only a diſcharge from the Captivity and Dominion of Sin, as
+<pb n="8" facs="tcp:100592:8"/>the <hi>Socinians</hi> imagine, but from its guilt too, and obligations to Puniſhment, which brings me to the next thing to be conſider'd, <hi>viz.</hi>
+            </p>
+            <p n="2">2. That we all lay under ſuch Guilt and Obligations to Puniſhment, as could not have been cancell'd without the Blood of a Re<g ref="char:EOLhyphen"/>deemer.</p>
+            <p>As the Divine Law does induce upon us an Obligation to Obedience, ſo the breach of that Obedience does lay upon us another Obligation to Puniſhment. For all Laws be<g ref="char:EOLhyphen"/>ing made up of Rewards and Puniſhments, the not living up to the encouragements of the one, does render us obnoxious and liable unto the other. And tho' every act of ſin be as tranſient as that time in which it is com<g ref="char:EOLhyphen"/>mitted, yet the guilt of it is a laſting Obli<g ref="char:EOLhyphen"/>gation, and dwelleth upon the Conſcience, according to that known Saying, <hi>Sin lyeth at the doors.</hi> Foraſmuch then as the Scripture had concluded all under ſin, and by the guilt of it we became Debtors to God's vindictive Ju<g ref="char:EOLhyphen"/>ſtice, our Puniſhment was as unavoidable as our Satisfaction was impoſſible. For ſince the Law had given Sentence, that the <hi>Soul that ſinned ſhould dye,</hi> what was there in us to arreſt Vengeance, or to put a ſtop to the
+<pb n="9" facs="tcp:100592:8"/>Execution of Juſtice? In us, I ſay, who in<g ref="char:EOLhyphen"/>ſtead of attoning for one Offence could only accumulate more, and contract new Debts only, but never leſſen the old: Wherewithal ſhould the guilty man redeem his own Soul, or that of his Brother, when it would <hi>cost more</hi> (than ever he could pay) <hi>to redeem their ſouls, ſo that he must let that alone for e<g ref="char:EOLhyphen"/>ver: Wherewith,</hi> ſays the Prophet, <hi>ſhould I come before the Lord, and bow my ſelf before the high God? Should I come before him with burnt offerings, and with the calves of a year old? And will the Lord be pleaſed with thou<g ref="char:EOLhyphen"/>ſands of rams, and ten thouſand rivers of oyl? Shall I give my firſt born for my tranſgreſſion,</hi>
+               <note place="margin">Micah 6.6.7.</note> 
+               <hi>or the fruit of my body for the ſin of my ſoul?</hi>
+            </p>
+            <p>What is the impure iſſue of thy Bodyto expiate the impurities of thy Soul? What merit is there in the richeſt Sacrifice to repair the Honour of the great Patron of Juſtice and Right?</p>
+            <p>How could the ſlaughter of a Beaſt propi<g ref="char:EOLhyphen"/>tiate for the guilty Man, or the Bloud of the moſt ſpotleſs Lamb waſh away the ſtain of a conſcious Mind. The Apoſtle indeed affirms, That without Bloud there could have been no remiſſion, or pardon of Sins; but then he further aſſures us, that it could not be ob<g ref="char:EOLhyphen"/>tain'd
+<pb n="10" facs="tcp:100592:9"/>by that of Bulls and Goats. 'Tis true, men in all Ages lying under the Conſcience of their Guilt, took Sanctuary in their Sacri<g ref="char:EOLhyphen"/>fices, as the only expedients to put a ſtop to Divine Wrath; but this was rather a ground<g ref="char:EOLhyphen"/>leſs preſumption upon his Goodneſs, than a ſatisfaction to his Juſtice. And though God himſelf did appoint thoſe Sacrifices under the Law to make an attonement for their Offer<g ref="char:EOLhyphen"/>ers; yet as the efficacy of theſe did not ex<g ref="char:EOLhyphen"/>tend to any greater Offences, ſo neither could they have expiated the leſs by any o<g ref="char:EOLhyphen"/>ther vertue than what was derived from the Bloud of Chriſt. Inſomuch, that had there remained no other Sacrifice for Sin, we muſt have periſh'd like thoſe Beaſts, that were ſlain upon the Altar, and in the <hi>ſin that we had ſin<g ref="char:EOLhyphen"/>ned, and in the treſpaſs that we had treſpaſſed; in them we muſt have died.</hi> But Bleſſed be the Father of our Lord Jeſus, who not only ac<g ref="char:EOLhyphen"/>cepted, but prepared a better Sacrifice for us. Ever Bleſſed be that Lamb, that ſitteth upon the Throne, who when all other Exepdients, fail'd, when neither the Steams of Bloud, nor the Clouds of Incenſe could prevail with Heaven, when Judgment and Vengeance hung over our Heads, when the Grave and Hell lay open upon us, did by an amazing
+<pb n="11" facs="tcp:100592:9"/>condeſcention make <hi>his ſoul an offering for ſin,</hi>
+               <note place="margin">Iſa. 53.10.</note> 
+               <hi>and bought us with a price.</hi>
+            </p>
+            <p n="2">2. Which is the ſecond general Head to be conſider'd: Namely, the Price that was laid down to procure our Diſcharge.</p>
+            <p>What the deliberate Counſil of God had be<g ref="char:EOLhyphen"/>fore determin'd, what the ancient Prophecies had long ſince foretold, that the Meſſiah ſhould ſhed his Bloud and die, was this day punctu<g ref="char:EOLhyphen"/>ally accompliſh'd. <hi>Thus it was written,</hi> ſays St. <hi>Luke,</hi> and <hi>thus it behoved Christ to ſuffer:</hi>
+               <note place="margin">Luke 24.46.</note> And thus, <hi>When we were yet without ſtrength,</hi>
+               <note place="margin">Rom. 5.6.</note> 
+               <hi>in due time Christ died for the ungodly.</hi>
+            </p>
+            <p>Not only his Diſciples do teſtifie theſe things, but the moſt ſenſeleſs part of the Cre<g ref="char:EOLhyphen"/>ation was both a Witneſs, and a joint Suffer<g ref="char:EOLhyphen"/>er under them. Nature it ſelf felt the Ago<g ref="char:EOLhyphen"/>nies of the day, and gave publick Teſtimo<g ref="char:EOLhyphen"/>ny to them, by its trembling and Convulſi<g ref="char:EOLhyphen"/>on. The Sun fell into an unnatural labour at the ſetting of this glorious Sun of Righte<g ref="char:EOLhyphen"/>ouſneſs; the veil of the Temple was rent in peices, and the Rocks gave out, that their <hi>Great Shepherd</hi> was Dead.</p>
+            <p>And as 'tis certain that he died, ſo 'tis no leſs evident, that he ſuffered for us Men, and for our Redemption. By the ſame Authori<g ref="char:EOLhyphen"/>ty we believe that he laid down his Life, we
+<pb n="12" facs="tcp:100592:10"/>muſt believe too, that he gave it as a Price, or Ranſom for us. We live indeed as if we had been redeemed with Silver and Gold, or at the ſmall expence of the Bloud of Bulls and Goats; but the Apoſtle aſſures us, that <hi>we were not redeem'd with thoſe corruptible things,</hi>
+               <note place="margin">1 Pet. 1.18.</note> 
+               <hi>but with the precious bloud of Christ.</hi> Which expreſſion, as 'tis a juſt Comment upon my Text, ſo it informs us, that what Silver and Gold is in a civil Contract and Purchaſe, the ſame was the Bloud of Chriſt in this ſpiritual one; and as the former is uſually laid down for the releaſe of a party that ſtands bound and obliged, ſo the latter was no leſs deſign'd for the diſcharge of our Guilt. This was the great end of his coming into the World as St. <hi>Matthew</hi> aſſures us,<note place="margin">Matt. 20.28.</note> to <hi>give his life a ranſom for many.</hi> By which 'tis intimated to us, that as our Saviour's Life was given in exchange and commutation for ours, ſo the great end of laying it down was, that he might buy off the Puniſhment of our Tranſgreſſions with the price of his Bloud, agreeable to that of the Apoſtle, who tells us, that he died <hi>for the redemption of tranſgreſſions.</hi>
+               <note place="margin">Heb. 9.15.</note>
+            </p>
+            <p>Every one knows that a Ranſom is nothing elſe but a price paid down to diſcharge the perſonal obligation of another, and therefore
+<pb n="13" facs="tcp:100592:10"/>if the Life of Chriſt was a Ranſom for us, it muſt be given in lieu of ours, and ſubſtitu<g ref="char:EOLhyphen"/>ted as much in our ſtead, as the life of the Beaſt under the Law was in the room of the Offerer.</p>
+            <p>Had I no other Authority for this; yet what we read of the <hi>Jewiſh</hi> Sacrifices will ſuf<g ref="char:EOLhyphen"/>ficiently warrant the Interpretation; for 'tis moſt certain, that the Bloud of the Sacrifices amongſt them was nothing leſs than a ſtated price for the Redemption <hi>of the</hi> Offeuder. And I may as well queſtion whether there were any ſuch Sacrifices at all, as whether they were a Ranſom for him that offer'd them. And conſequently if all thoſe Sacrifices were prefigurative only of our Saviours, as the A<g ref="char:EOLhyphen"/>poſtle makes them: If there was ſuch an exact congruity and correſpondence betwixt both, we may rationally conclude, that what was in<g ref="char:EOLhyphen"/>tended there by the Bloud of the Beaſt, was more effectually accompliſhed by that more excellent Sacrifice the Bloud of Jeſus. This is the eaſieſt and moſt natural Conſtruction of all thoſe places, wherein he is ſaid to die <hi>for our Sins, to bear our Iniquities,</hi> to be made <hi>a Curſe, a Sacrifice,</hi> and <hi>Sin</hi> for us. The ſenſe of all which is ſo clear and obvious, that you may juſtly wonder, why I ſhould inſiſt on them.</p>
+            <pb n="14" facs="tcp:100592:11"/>
+            <p>But you cannot be ignorant, that there are many in the World, that take up with a quite different ſenſe of them, who deal with Scripture, as ſome do with Witneſſes, tor<g ref="char:EOLhyphen"/>ture them ſo, and force them, till they ſpeak what they themſelves pleaſe, and being not willing to ſtretch their Faith beyond their own Reaſon, are reſolved to ſhape all my<g ref="char:EOLhyphen"/>ſteries to it.</p>
+            <p>They allow indeed, that Chriſt's Bloud was ſhed for us, that is in a large ſenſe for our Good and Benefit, but not as a proper Ran<g ref="char:EOLhyphen"/>ſom and Offering to God for us; that he laid down his Life to ſeal the truth of his Do<g ref="char:EOLhyphen"/>ctrin, and to be an Example to us of ſuffer<g ref="char:EOLhyphen"/>ing for the ſame; but they will not grant, that he parted with it by way of compenſa<g ref="char:EOLhyphen"/>tion and ſatisfaction to Divine Juſtice. And whether thoſe Expreſſions before mentioned do import no more, I leave it to you to Judge.</p>
+            <p>'Tis true, indeed, that where 'tis ſaid, he laid down his Life for us, it may be inter<g ref="char:EOLhyphen"/>preted in their ſenſe for our good and bene<g ref="char:EOLhyphen"/>fit only, without making any attonement, or ſatisfaction for our Sins. But when the ſacred Writings do aſſure me,<note place="margin">1 Pet. 2.24.</note> That <hi>he did bear our ſins in his own body,</hi> ſo as to feel the <hi>Chaſtiſe<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:100592:11"/>of our peace</hi> upon him,<note place="margin">Iſa. 53.5.</note> that he ſo far en<g ref="char:EOLhyphen"/>dured the Puniſhment of our Sins, as to have his <hi>Soul made an Offering</hi> for them, that he ſuffered ſo in our ſtead, as to be <hi>made Sin</hi> for us; What elſe can I conclude but this, that his Bloud was a true Sacrifice to turn God's Wrath from us, and a valuable Price offered in our behalf to propitiate Heaven?</p>
+            <p>That his Bloud was ſhed for the Remiſſion of our Sins, may be wreſted to ſignifie what theſe men would have it, that 'twas ſhed on<g ref="char:EOLhyphen"/>ly to give us aſſurance of Pardon and Remiſ<g ref="char:EOLhyphen"/>ſion; but when the Scripture is ſo expreſs, that <hi>now in the end of the World he appeared to put away ſin by the ſacrifice of himſelf;</hi>
+               <note place="margin">Heb. 9.26.</note> and ſince the Apoſtle by telling us,<note place="margin">Heb. 10.4.</note> 
+               <hi>That the bloud of bulls and goats could not take away ſins,</hi> does plainly inſinuate, that the Bloud of Chriſt was therefore ſhed to ſupply that defect of the legal Sacrifices, What other ſenſe can I fix on it, but this, that his ſacred Bloud was pour<g ref="char:EOLhyphen"/>ed out to make an attonement for our Souls, and to procure the expiation of our Guilt?</p>
+            <p>It ſeems ſtrange indeed, that God ſhould exact the Bloud of his own Son, when being a free Sovereign Power, he might have relea<g ref="char:EOLhyphen"/>ſed the Sinner without any price, or ſatisfa<g ref="char:EOLhyphen"/>ction at all: For ſo far it muſt be granted,
+<pb n="16" facs="tcp:100592:12"/>that every ſupreme Independent Governour may diſcharge an Offender at pleaſure, with<g ref="char:EOLhyphen"/>out any Compenſation. And therefore there is no ſuch vindictive Juſtice in God, as to de<g ref="char:EOLhyphen"/>termine him neceſſarily to puniſh the Guilty, either in his own Perſon, or his Undertaker. But then we muſt remember that could we aſſign no Reaſons for God Almighty's pro<g ref="char:EOLhyphen"/>ceedings, yet our Faith ought to remove thoſe Mountains, which our Reaſon cannot; his Judgments are unſearchable, and his ways paſt finding out: But yet there are very good Reaſons why he ſhould require the Price of Bloud; for had he quitted the Offender with<g ref="char:EOLhyphen"/>out ſome reaſonable ſatisfaction, he could neither have vindicated his own Honour, nor ſecured the Authority of his Laws and Go<g ref="char:EOLhyphen"/>vernment: For he that pardons the Guilty without a valuable Conſideration, does but expoſe his Juſtice by an indiſcreet Mercy, and invite new Provocations, by giving im<g ref="char:EOLhyphen"/>punity to the old. Whereas now by execu<g ref="char:EOLhyphen"/>ting the Puniſhment upon Chriſt our Under<g ref="char:EOLhyphen"/>taker, he has contrived ſuch an admirable Method of our Deliverance, as might at once preſerve his own Authority, as well as the Souls of the Offenders.</p>
+            <pb n="17" facs="tcp:100592:12"/>
+            <p>But not to dwell too long on this, let us all fix our Meditations on that Bloud of Je<g ref="char:EOLhyphen"/>ſus, and humble our ſelves rather under a deep ſenſe of his Sufferings, than conteſt a<g ref="char:EOLhyphen"/>bout the Merits of them. And here I need not uſe any Artifice to excite your Affecti<g ref="char:EOLhyphen"/>ons, the ſubject itſelf is all Paſſion, and the very naming of the Bloud of Jeſus is enough to fetch the ſame drops of Bloud from us, if we bear the ſame nature with him, for who can reflect upon the Bloud that was ſhed this day without being as much concern'd in the Sufferings, as our Sins were in the occaſioning them. How ſtrongly ſhould we be affected, when we look back upon Innocence bleed<g ref="char:EOLhyphen"/>ing under unjuſt Violence, ſtrugling with the Pain, as well as infamy of a Croſs, and bearing the Iniquity no leſs than the con<g ref="char:EOLhyphen"/>tradiction of Sinners.</p>
+            <p>What deep Impreſſions ſhould this work upon us, when by a lively repreſentation we can view that Lamb ſtretch'd on an accurſed Tree, labouring under the Vengeance due to our Crimes, and healing us with thoſe ſtripes, which we our ſelves laid upon him? What a ſtupendious Myſtery is this, that the ſufferings of the Son ſhould be a Ranſom for the profeſſed Rebels to the Father? That
+<pb n="18" facs="tcp:100592:13"/>the <hi>bloud of God,</hi>
+               <note place="margin">Acts 20.28.</note> as the Apoſtle calls it, ſhould be laid down as the Price of an ac<g ref="char:EOLhyphen"/>curſed Slave, and that he who from Heaven might have been the revenger of our Crimes, ſhould now be the only undertaker for them.</p>
+            <p>'Twas a ſtrange ſurpriſe to the Heathens, as we read in the <hi>Acts</hi> of the holy Apoſtles, when they fancied that their <hi>Gods were come down,</hi>
+               <note place="margin">Acts 14.11.</note> 
+               <hi>and appeared in the likeneſs of men.</hi> But what would they have ſaid then, if they had ſeen them <hi>die like men too,</hi> and <hi>fall not like one of the Princes,</hi> but like Slaves? What an amazing thought is this, that he who was infinitely exalted far above all our Sacrifice, and Praiſe ſhould now be not only the Vota<g ref="char:EOLhyphen"/>ry, but the Sacrifice himſelf, and be brought as a Lamb to the Altar, from whence he might have commanded all our Worſhip? This is ſuch a wonderful Scene, as ſeems as much above our wonder, as our Faith, as far above the underſtanding of a Man, as it was beneath the Majeſty of a God.</p>
+            <p>Inſtead therefore of a further diſcourſe, we ſhall do much better by falling low upon our Knees, and ſilently adoring what we can never expreſs.</p>
+            <p>But however this Miſtery may ſtagger our belief, yet ſo much we may underſtand of
+<pb n="19" facs="tcp:100592:13"/>it, that as the Son of God could never con<g ref="char:EOLhyphen"/>deſcend ſo low, but for the higheſt ends and purpoſes, ſo his Bloud was effectual for the accompliſhment of them, and ſince the great end of his undertaking was to deliver us both from the Guilt and Dominion of our Sin; and we may therefore conclude, that 'twas available for the cancelling the Obligation of the one, as well as conquering the prevail<g ref="char:EOLhyphen"/>ing Power of the other, which brings me to the third General Head, <hi>viz.</hi>
+            </p>
+            <p>The Effects and Benefits of Chriſt's Bloud in reference to the Guilt, and dominion of Sin, and in what condition it has inſtated us.</p>
+            <p>As we are aſſured that Chriſt died for us, ſo likewiſe that he bought us; it being equally certain that the Price was accepted, as that it was offer'd. For as that Bloud was infinite<g ref="char:EOLhyphen"/>ly valuable, ſo it could not fail of being ef<g ref="char:EOLhyphen"/>fectual.</p>
+            <p>Agreeably we find that it not only ſeald, but procur'd a new Covenant of Grace and Mercy. For which reaſon 'tis call'd by the Apoſtle, <hi>The bloud of the everlaſting covenant:</hi>
+               <note place="margin">Heb. 13.20. Heb. 12.24.</note> 
+               <hi>The bloud of ſprinkling;</hi> becauſe thoſe over<g ref="char:EOLhyphen"/>tures of Mercy and Pardon which are offer'd to us, were both ratified and confirmed by
+<pb n="20" facs="tcp:100592:14"/>his Bloud, as well as purchaſed by its Merits. To underſtand therefore what are the bene<g ref="char:EOLhyphen"/>fits of that Bloud, we muſt firſt know what are the terms and propoſals of this new Cove<g ref="char:EOLhyphen"/>venant; becauſe all the Acts of Grace and Favour that are contain'd and promulged in the one, are the pure Reſults and Effects of the other. And conſequently, ſince the Goſpel Covenant does on one ſide promiſe greater helps and aſſiſtance, for the diſcharge of our Duty, and on the other, pardon and remiſſion for the Defects of it; we may be aſſured by the former, that he has deliver'd us from the Dominion of Sin, and by the latter, from the Guilt of it.</p>
+            <p>By providing ſuch Helps and Abilities, he has ſubdued its Power, by opening a Foun<g ref="char:EOLhyphen"/>tain of Pardon, he has cancell'd its Obliga<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Hence on one ſide we are ſaid <hi>to be recon<g ref="char:EOLhyphen"/>cil'd to God through the death of his Son, to have redemption through his bloud even the re<g ref="char:EOLhyphen"/>miſſion of ſins;</hi>
+               <note place="margin">Coloſ. 1.14. Tit. 2.14. 1 Pet. 1.18.</note> on the other hand we are ſaid to be <hi>redeem'd from all iniquity, from a vain converſation, from the preſent evil world.</hi> This referring to the Dominion of Sin, the other to the Guilt of it.</p>
+            <pb n="21" facs="tcp:100592:14"/>
+            <p>But becauſe the Goſpel being a mutual Covenant betwixt God and Man does con<g ref="char:EOLhyphen"/>tain certain conditions to be perform'd on our parts too, and ſince the Grace and Par<g ref="char:EOLhyphen"/>don therein promiſed is diſpenſed agreeably to the performance of thoſe Conditions; there<g ref="char:EOLhyphen"/>fore the Bloud of Chriſt thô infinitely me<g ref="char:EOLhyphen"/>ritorious, can be no further beneficial to us, than as we apply thoſe benefits by a diſcharge of thoſe conditions of Faith and Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>Hence is it that we find Repentance and Remiſſion of Sins ſo often linkt together, the one as the indiſpenſable condition of the Goſpel, the other as the inſeparable Bleſſing annext to it by vertue of Chriſt's Bloud. For the ſame reaſon, when he is ſtiled a <hi>Pro<g ref="char:EOLhyphen"/>pitiation</hi> for us,<note place="margin">Rom. 3.25.</note> the Apoſtle adds <hi>through faith in his bloud.</hi> Would you be reſolv'd therefore how you are bought, or redeem'd with this price, the Anſwer is obvious, that Chriſt has not ſo redeem'd us as actually to inſtate us in Salvation without a poſſibility of a miſcarriage, but that by opening a Foun<g ref="char:EOLhyphen"/>tain of Mercy, and providing us means by which our Salvation may be accompliſh'd, he has put us all in a glorious condition and capacity of attaining it.</p>
+            <pb n="22" facs="tcp:100592:15"/>
+            <p>Thus has the <hi>Lord viſited and redeemed his People, and rais'd up a mighty Salvation in the houſe of his ſervant</hi> David; <hi>he has bro<g ref="char:EOLhyphen"/>ken the gates of Braſs, and cut the bars of Iron aſunder;</hi> he has ſtruck off our Fetters, and cancell'd our Obligations upon the reaſona<g ref="char:EOLhyphen"/>ble terms of Faith and Penitence. And be<g ref="char:EOLhyphen"/>ing thus ſet free, 'tis in your power now by the merits of Chriſt's Bloud to work out your own Salvation. Life and Death are fairly ſet before you, if Iniquity be your ruin, 'tis your choice too, and if you periſh in your Sins, your deſtruction is from your ſelves. A mighty Redemption is wrought for you, and how ſhall we eſcape if we neg<g ref="char:EOLhyphen"/>lect ſo great Salvation? That we may not therefore trample upon the Bloud of the Co<g ref="char:EOLhyphen"/>venant, nor baffle all the great ends of our Saviour's undertaking; we muſt remember that as he has done great things for us, ſo there is ſomething to be done on our ſides too: Though he has deliver'd us from one Obligation, yet he has laid upon us another to Obedience. It was for this end that he <hi>deliver'd us from the hand of our Enemies, that we might ſerve him without fear,</hi> and he therefore <hi>bought us with a Price, that we might glorifie God with Body and Spirit which are Gods.</hi>
+            </p>
+            <pb n="23" facs="tcp:100592:15"/>
+            <p>Which is the Fourth and laſt thing to be conſider'd, <hi>viz.</hi>
+            </p>
+            <p>The obligation that does ariſe from this conſideration, that he has bought us, and that is, that we ſhould glorifie God both with Body and Spirit which are Gods.</p>
+            <p>That we are purchas'd by the Bloud of Chriſt, is the moſt powerful Motive, and unanſwerable Argument for our Obedience to him; for he that purchaſes any thing, as he has a juſt Title and Dominion over it, ſo there is all the reaſon in the World that he ſhould have its uſe and ſervice. This is no<g ref="char:EOLhyphen"/>thing elſe but what is agreeable to the ſtand<g ref="char:EOLhyphen"/>ing Rules of Juſtice. For by the ancient Laws to which the Apoſtle here alludes, the Servant was but the property of the Maſter, and his Service as much due, as that of any other Tool or Inſtrument.</p>
+            <p>'Tis a known Rule in the civil Law, <hi>Servi<g ref="char:EOLhyphen"/>le eaput nullum jus habet.</hi> The Servant has no power or diſpoſal of himſelf, no right to poſſeſs any thing, but all things are at the pleaſure, and for the benefit of his Lord. I appeal to your ſelves, and you may be judg<g ref="char:EOLhyphen"/>ed by your own meaſures, who ever bought a Vine without the reaſonable expectation of the Fruit of it, who ever purchaſed a Field
+<pb n="24" facs="tcp:100592:16"/>without appropriating to himſelf its encreaſe and productions: And 'tis the very ſame Caſe here, you are not your own, but bought with a price; and I know no other conſequence than what the Apoſtle makes, that we ſhould therefore <hi>glorifie him with Body and Spirit which are</hi> his.</p>
+            <p>And then wilt thou rightly diſcharge this duty, when every part that is in thee ſhall recognize this Title of a Redeemer by a pe<g ref="char:EOLhyphen"/>cular Conſecration to his Service; when e<g ref="char:EOLhyphen"/>very faculty and power ſhall own the Lord that bought them, by an entire reſignation to God's Will and Diſpoſal.</p>
+            <p>Then wilt thou truly glorifie God in thy Body, when thou doeſt bear in thy own Bo<g ref="char:EOLhyphen"/>dy the marks of Chriſt Jeſus, when thou cauſt ſhew the power of his Sacrifice by the Sacrifice of thy Luſts, and can'ſt view in thy own Fleſh the Triumphs of his Croſs, when thy crucified Fleſh ſhall repreſent the Crucifixion of thy bleeding Maſter, when every mortified Member ſhall give a publick Atteſtation to thy belief of a mortiſied Sa<g ref="char:EOLhyphen"/>viour, and all thy conquer'd Inclinations ſhall ſet forth the glory of his Purchaſe. Then wilt thou truly value the Price of his Bloud, when every ſenſual Appetite does ſhare in
+<pb n="25" facs="tcp:100592:16"/>the Agonies of his Paſſion, when that Body of thine is delivered from <hi>the body of ſin and death,</hi> and when all thoſe Members that were the <hi>Inſtruments of ſin unto uncleanneſs</hi> ſhall be made <hi>the Inſtruments of righteouſneſs unto God.</hi>
+            </p>
+            <p>And as we muſt thus glorifie him with our Bodies, ſo likewiſe with the Spirit of our Minds. Thy Soul was to be made an Offer<g ref="char:EOLhyphen"/>ing to him that ſaved it, as his was an Offer<g ref="char:EOLhyphen"/>ing for thy Sin, and all its powers were to be put upon the ſtretch, and vigorouſly ex<g ref="char:EOLhyphen"/>ercis'd in the advance of his Glory. The Pride of thy underſtanding was to be humbled under the ſenſe of his Meekneſs and Humi<g ref="char:EOLhyphen"/>lity: Thy Reaſon and Judgment muſt ſub<g ref="char:EOLhyphen"/>mit to all thoſe miſterious Doctrines of that Faith which he publiſh'd to the World. E<g ref="char:EOLhyphen"/>very proud Imagination was to be caſt down, and <hi>every Thought,</hi> as the Apoſtle expreſſeth it, was to be <hi>Captivated into the Obedience of Christ.</hi> All the deſires of thy Will were to be regulated by thoſe Eternal Laws of Holi<g ref="char:EOLhyphen"/>neſs which he has preacht to us: Thy Af<g ref="char:EOLhyphen"/>fections muſt be rais'd as high as the Throne of thy Lord and Maſter, and ſcrew'd up to a paſſionate Love and Admiration of his Good<g ref="char:EOLhyphen"/>neſs. In ſhort, then will thy Body and Soul
+<pb n="26" facs="tcp:100592:17"/>glorifie God, and the Lord that bought them, when all thy Heart, all thy Strength, and all thy Soul ſhall be ſtrongly engaged in pro<g ref="char:EOLhyphen"/>moting his Honour, in ſubmitting to his Will, and fulfilling his Commands.</p>
+            <p>And this certainly, when all is done, was the great end of his dying for us, that they <hi>which henceforth live ſhould no longer live unto themſelves,</hi>
+               <note place="margin">2 Cor. 5.15.</note> 
+               <hi>but unto him that died for us.</hi> And the reaſon of it is ſtrong and forcible, becauſe <hi>whether we live or die we are the Lords.</hi>
+               <note place="margin">Rom. 14.8.</note> For this purpoſe did he redeem us with his Bloud, that he might <hi>redeem us too from all iniquity, and purifie unto himſelf a peculiar people zealous of good works,</hi> that henceforth we ſhould no longer be <hi>the ſervants of Sin, but alive unto God:</hi> Wherefore if this be the great Deſign of our Saviour's underta<g ref="char:EOLhyphen"/>king; if all that he has done and ſuffer'd for us was to deliver us from our Crimes, and to fit us for his Service in order to our happineſs, how juſt is our Damnation, if we don't act up in congruity to thoſe ends.</p>
+            <p>If our own Intereſt on one ſide, or the principles of Juſtice on the other can't have a due Influence upon us; yet a Senſe of Inge<g ref="char:EOLhyphen"/>nuity and Gratitude may juſtly prevail over us. For who can be ſo inſenſible to a Curſe,
+<pb n="27" facs="tcp:100592:17"/>as to neglect grateful returns, and ſuitable requitals for ſuch an undeſerved, and mighty Deliverance. Do but conſult all Ages, what Honour and Eſteem have been beſtowed on thoſe that have redeemed their Countries from Slavery, and unjuſt Dominion, what ſolemn acknowledgments have been paid to ſuch publick Benefactors, even in the moſt barbarous, and uncivilized Nations, how they have erected Altars, Statues, and Mo<g ref="char:EOLhyphen"/>numents, adored their Memories, and eter<g ref="char:EOLhyphen"/>niz'd their Names by fixt and eſtabliſht So<g ref="char:EOLhyphen"/>lemnities of Worſhip.</p>
+            <p>And if the deliverance of our Bodies from a Temporal Slavery; if the recovery of our Civil Rights and Properties be worthy of ſuch hearty Acknowledgments, what muſt be expected from us, who are redeem'd both in Body and Soul from Principalities and Powers, from the Terrors of Darkneſs, and the Shadow of an Eternal Death? How ſhould this inflame all our Paſſions, make our Hearts hot within us, kindle the Fire till at laſt it breaks out into publick Acts of Praiſe and Thanksgiving. <hi>Let them give thanks,</hi> ſays the Prophet, <hi>whom the Lord hath re<g ref="char:EOLhyphen"/>deem'd, and deliver'd from the hand of the Enemy;</hi> let every Knee be bended in the
+<pb n="28" facs="tcp:100592:18" rendition="simple:additions"/>Adoration of this Mighty Redeemer; let e<g ref="char:EOLhyphen"/>very Tongue <hi>be talking of his wondrous Works, and telling of his Salvation from day to day:</hi> And let us all affectionately joyn with that Heavenly Hoſt above, crying out, and ſaying, <hi>Worthy is the Lamb that was ſlain to receive Power, and Riches, and Wiſdom, and Strength, and Honour, and Glory, and Bleſſing:</hi> And therefore <hi>Bleſſing, and Honour, and Glory, and Power be unto him that ſitteth upon the Throne, and to the Lamb for evermore.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
